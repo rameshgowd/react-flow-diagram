@@ -1,0 +1,19 @@
+
+.App{
+  font-family:Arial, sans-serif ;
+  text-align: center;
+} 
+
+.diagram-wrapper{
+  display: flex;
+  height: 100vh;
+} 
+
+.sidebar {
+  width: 2000px;
+  padding: 100px;
+  border-right: 1px solid #ddd;
+  background-color: #f9f9f9;
+
+
+}
